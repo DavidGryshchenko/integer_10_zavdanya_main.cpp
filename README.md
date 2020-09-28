@@ -1,1 +1,1 @@
-# integer_10_zavdanya_main.cpp
+# integer_5_zavdanyi
